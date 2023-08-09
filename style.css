@@ -1,0 +1,79 @@
+
+#title{
+    font-size: 90px;
+}
+#sub-title{
+    font-size: 50px;
+}
+#div-title{
+    background:linear-gradient(rgb(212, 237, 246) 0%, rgb(156, 188, 173) 100%) ;
+    padding: 325px;
+    font-size:70px;
+    font-family: 'Oswald', sans-serif;
+    margin:0;
+}
+#div-header{
+    width:50%;
+    height:50%;
+    margin-bottom:25px;
+    
+}
+#show-sketch{
+    border:2px rgb(156, 188, 173) solid;
+    border-radius: 25px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 25px;
+    background-color: rgb(156, 188, 173);
+    padding-right: 35;
+    padding-left: 35;
+    padding-bottom: 25px;
+    padding-top: 25px;
+    margin-top: 75px;  
+}
+#show-sketch:hover{
+    transition: 0.5s;
+    border:2px rgb(149, 178, 164) solid;
+    border-radius: 20px;
+    font-size: 20px;
+    background-color: rgb(195, 215, 206);
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-bottom: 20px;
+    padding-top: 25px;
+}
+#div-header{
+    font-family: 'Oswald', sans-serif;
+}
+#p-div-header{
+    font-size: 30px;
+}
+#clen-sketch{
+    border:2px rgb(230, 165, 153) solid;
+    border-radius: 25px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 25px;
+    background-color: rgb(230, 165, 153);
+    padding-right: 35px;
+    padding-left: 35px;
+    padding-bottom: 25px;
+    padding-top: 25px;
+    
+}#clen-sketch:hover{
+    transition: 0.5s;
+    border:2px rgb(230, 165, 164) solid;
+    border-radius: 20px;
+    font-size: 20px;
+    background-color: rgb(246, 201, 193);
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-bottom: 20px;
+    padding-top: 25px;
+}
+#sub-title-header{
+    font-family: 'Oswald', sans-serif;
+    margin-top: 50px;
+    margin-bottom: 0px;
+}
+#button-sketch {
+    min-height: 200px;
+}
